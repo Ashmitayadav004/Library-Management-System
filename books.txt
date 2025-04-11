@@ -1,0 +1,20 @@
+Java Programming,true
+Data Structures,true
+Design Patterns,true
+Java,true
+Java,true
+DSA,true
+OS,true
+Java,true
+DSA,true
+Java,true
+DSA,true
+Java,true
+Os,true
+Java,true
+Os,true
+Java,true
+Java,true
+Os,true
+Maths,true
+Java,true
